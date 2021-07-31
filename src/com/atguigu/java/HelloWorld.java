@@ -5,6 +5,7 @@ public class HelloWorld {
         System.out.println("Hello World");
         System.out.println("Ling");
         System.out.println("Here is hot-fix branch");
+        System.out.println("master test");
     }
 
 }
